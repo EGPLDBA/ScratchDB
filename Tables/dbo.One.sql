@@ -1,6 +1,6 @@
 CREATE TABLE [dbo].[One]
 (
 [Id] [int] NOT NULL IDENTITY(1, 1),
-[num] [varchar] NULL
+[num] [int] NULL
 ) ON [PRIMARY]
 GO
