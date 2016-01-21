@@ -1,5 +1,5 @@
 CREATE TABLE [dbo].[Test]
 (
-[ID] [nvarchar] (10) COLLATE Latin1_General_CI_AS NULL
+[ID] [int] NOT NULL
 ) ON [PRIMARY]
 GO
